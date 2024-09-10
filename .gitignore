@@ -1,0 +1,67 @@
+# User-specific files
+*.xcuserstate
+*.xcuserdata/
+*.swp
+*.swo
+
+# Build products
+build/
+DerivedData/
+
+# Xcode specific
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Index files
+*.idx
+*.lo
+*.lock
+
+# Core Data
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+Package.resolved
+Packages/
+.swiftpm/
+
+# CocoaPods
+Pods/
+Podfile.lock
+Podfile~
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.log
+
+# DS_Store (macOS files)
+.DS_Store
+
+# xcresult files (Xcode test results)
+*.xcresult
+
+# SwiftPM Xcode integration
+.swiftpm/xcode/
